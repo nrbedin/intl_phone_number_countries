@@ -1,7 +1,7 @@
 name: intl_phone_number_countries
-description: A simple and customizable flutter package for inputting phone number in intl / international format uses Google's libphonenumber.
+description: package flutter to handle phone masks from other countries.
 version: 1.0.0
-homepage: https://github.com/natintosh/intl-phone-number-input
+homepage: https://github.com/nrbedin/intl_phone_number_countries
 
 environment:
   sdk: ">=3.5.4 <4.0.0"
